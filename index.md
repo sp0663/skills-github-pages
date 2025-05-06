@@ -1,4 +1,4 @@
 ---
-title: Weeeeeeeeeeeeeeeeeee
+title: We
 ---
 
